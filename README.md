@@ -1,4 +1,6 @@
-# co30d477b8025a70873e8cb6a
+# Sign up page using React.js
+
+This is a project I did with a Scrimba React.js course.
 
 Quick start:
 
